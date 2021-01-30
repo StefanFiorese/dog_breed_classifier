@@ -16,6 +16,32 @@ The goal is to develop a complete pipeline that takes in images to be calssified
 All data was provided by udacity. Please refer to this repository for all contents:  
 [https://github.com/udacity/deep-learning-v2-pytorch/tree/master/project-dog-classification](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/project-dog-classification)
 
+## Libraries used
+
+General/  data processing:  
+
+- numpy
+- pandas
+- time
+- pickle
+
+Visualization:
+
+- matplotlib
+- PIL
+- torchsummary
+- tqdm
+
+Face recognition:
+
+- openCV
+
+Neural networks and image processing:
+
+- pytorch
+
+
+
 ## Results
 
 - A 25% accuracy on the custom CNN could be achieved (with a 0.75% baseline)
