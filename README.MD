@@ -4,7 +4,7 @@
 
 ![alt text](https://github.com/StefanFiorese/dog_breed_classifier/blob/master/images_for_post/cnn.jpg?raw=true)
 
-This project focuses on classifying dog 133 dog breeds using convolutional neural networks. One fully custom CNN will be trained and its performance compared to a transfer learning approach. VGG-16 will be used as the base model for transfer learning.  
+This project focuses on classifying 133 dog breeds using convolutional neural networks. One fully custom CNN will be trained and its performance compared to a transfer learning approach. VGG-16 will be used as the base model for transfer learning.  
 Moreover, a face detection algorithm based on openCV will identify human faces.
 
 ## Goal
