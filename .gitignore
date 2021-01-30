@@ -2,7 +2,7 @@
 *.pt
 
 # ignoring images and pdfs
-# *.pdf
-# *.JPG
-# *.jpg
+*.pdf
+*.JPG
+*.jpg
 
